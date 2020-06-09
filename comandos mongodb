@@ -1,0 +1,41 @@
+|===================================|
+| Iniciar projeto                   |
+|                                   |
+| =>npm start                       |
+|===================================|
+|iniciar mongo db                   |
+|                                   |
+|sudo systemctl start mongod        |
+|=> sudo service mongod start       |        
+|===================================|
+|verificar se iniciou               |
+|                                   |
+|sudo systemctl status mongod       |
+|=> sudo service mongod status      |
+|===================================|
+|parar mongodb                      |
+|                                   |
+|sudo systemctl stop mongod         |
+|=> sudo service mongod stop        |
+|===================================|
+|restart mongodb                    |
+|                                   |
+|sudo systemctl stop mongod         |
+|=> sudo service mongod restart     |
+|===================================|
+
+|===================================|
+|Entrar na brach                    |
+|                                   |
+|git checkout Everton-acoes-million |  
+|===================================|
+|  Apos dar o git push origin master|
+|  dar git push para enviar         |
+|  o arquivo modigicado             |  
+|===================================|
+
+
+
+
+
+
